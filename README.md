@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi My name is bigBear
+
+Here is my blog: [大熊的个人博客](http://blog.pulsating.cn/)
+
+BiliBili live: [爱做饭的码农大熊的直播间](http://live.bilibili.com/14624352)
+
+Slogan: 控制早晨, 方能控制人生!
+
 <!--
 **liuxiaoyucc/liuxiaoyucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
