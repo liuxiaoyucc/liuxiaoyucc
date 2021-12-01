@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 黑龙江字符跃迁科技有限公司
+
 
 - :bear: I’m bigbear ...
 - :book: blog: [大熊的个人博客](https://liuxiaoyucc.github.io/) ...
